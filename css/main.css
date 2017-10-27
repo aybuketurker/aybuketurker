@@ -10,8 +10,8 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    margin-left: 20px;
     float:right;
+    margin-left: 20px;
 }
 a {
     text-decoration: none;
@@ -21,7 +21,7 @@ a:hover {
     text-decoration: underline;
 }
 a:active {
-    color:#333;
+    color: #333;
 }
 h1 {
     font-size: 3em;
